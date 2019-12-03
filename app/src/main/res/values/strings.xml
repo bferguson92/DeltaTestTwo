@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DeltaTestTwo</string>
+    <string name="error_could_not_populate_view">ERROR: Could not populate view!</string>
+</resources>
